@@ -1,0 +1,29 @@
+E-Farsa
+22/01/2024 14:36 - Inicio
+22/01/2024 15:34 - Erro de conexão
+Noticas salvas até o momento: 1499, nessa pagina: 20/20
+Tempo gasto:  44.11s
+Pagina:  http://www.e-farsas.com/secoes/falso-2/page/76
+
+FATO OU FAKE
+23/01/2024 12:30 - Inicio
+23/01/2024 12:34 - Erro
+Pagina:  https://g1.globo.com/fato-ou-fake/index/feed/pagina-37.ghtml
+Noticas salvas até o momento: 338, nessa pagina: 10/10
+Tempo gasto:  9.51s
+23/01/2024 12:36 - Inicio
+23/01/2024 12:49 - Fim
+Noticas salvas até o momento: 1209, nessa pagina: 8/10
+Tempo gasto:  5.24s
+Pagina:  https://g1.globo.com/fato-ou-fake/index/feed/pagina-183.ghtml
+Noticas salvas até o momento: 1546
+Tempo gasto Total:  750.18s
+
+Boatos.org 
+23/01/2024 15:15 - Inicio
+23/01/2024 15:43 - Fim
+Noticas salvas até o momento: 1499, nessa pagina: 20/20
+Tempo gasto:  24.77s
+Pagina:  https://www.boatos.org/?paged=76
+Noticas salvas até o momento: 1499
+Tempo gasto Total:  1704.48s
