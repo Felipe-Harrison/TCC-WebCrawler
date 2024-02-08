@@ -27,3 +27,12 @@ Tempo gasto:  24.77s
 Pagina:  https://www.boatos.org/?paged=76
 Noticas salvas até o momento: 1499
 Tempo gasto Total:  1704.48s
+
+Fazer Crawler 
+para g1,istoE,estadao,folha de SP
+
+Folha de SP
+01/02/2024 13:39 - Inicio
+01/02/2024 14:32 - Fim
+Noticas salvas até o momento: 16000
+Tempo gasto Total:  3079.84s
